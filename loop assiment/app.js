@@ -282,15 +282,15 @@
 
 
 
-// let userInput = +prompt('enter number');
-// let multiple = 1;
-//  for (let i = 1; i <= userInput; i++){
-//    if(i % 2  !== 0){
-//     console.log(i);
-//    }
+let userInput = +prompt('enter number');
+let multiple = 1;
+ for (let i = 1; i <= userInput; i++){
+   if(i % 2  !== 0){
+    multiple = multiple * i;
+   }
 
-//  }
-//  console.log(multiple);
+ }
+ console.log(multiple);
 
 
 
