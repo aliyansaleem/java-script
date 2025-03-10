@@ -139,11 +139,16 @@
 
 
 
+// let start = new Date("june 30, 2035").getTime()
+// console.log(start)
+// let now = new Date().getTime()
+// console.log(now)
 
 
+// let beforeStart = new Date("jan 1,1970").getTime()
+// console.log(beforeStart)
 
-
-
+// console.log(beforeStart - new Date("1 jan,1980").getTime())
 
 
 
